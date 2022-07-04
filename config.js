@@ -11,9 +11,9 @@ global.owner = [
   ['++62 888-0494-7272'],
   ['+62 888-0494-7272', 'GojoSatoru', true],
   ['+62 888-0494-7272', 'GojoSatoru', true],
-  ['+84 82 430 4616', 'Bot', true],
-  ['+84 34 979 0091', 'Johannes', true],
-  ['+62 818-0545-0249', 'Krisna', true],
+  ['', true],
+  ['', true],
+  ['', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
