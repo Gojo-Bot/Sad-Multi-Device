@@ -1,6 +1,6 @@
 ## UNTUK PENGGUNA HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FahriAdison/Sad-Multi-Device)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gojo-Bot/Sad-Multi-Device)
 
 ### Instal Buildpack
 * heroku/nodejs
